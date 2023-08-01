@@ -3,15 +3,17 @@ import requests
 from flask import Flask,  request
 import time
 from random import *
-import base64
 import psutil
 import warnings
 import datetime as dt
 import os
 
 #openai(Chat-GPT)设置
-import openai
-openai.api_key = "sk-*******" #设置成你自己的
+try:
+    import openai
+    openai.api_key = "sk-*******" #设置成你自己的
+except:
+    print("openAI配置失败！")
 
 #机器人设置
 admin = []          #qqbot的超管
