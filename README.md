@@ -1,8 +1,8 @@
 # PyQQbot
 ## 一个基于go-cqhttp与python的QQ机器人。
 <p align="center">
-  <a href="">
-    <img src="blob/logo1.png"alt="logo">
+  <a href="https://xufuyu.eu.org/">
+    <img src="https://cdn.jsdelivr.net/gh/xiaosuyyds/PyQQbot@master/blob/logo1.png"alt="logo">
   </a>
 </p>
 
@@ -59,10 +59,13 @@ _✨ 基于 [Mirai](https://github.com/mamoe/mirai) 以及 [MiraiGo](https://git
 10，签到，发送 签到 即可\
 11，/占用 查看机器人占用情况（权限要求:机器人超管）\
 12，/群发 [内容] 在已响应的群群发消息。（权限要求:机器人超管）
-#### 别的功能还在如火如荼的制作当中~
+# 别的功能还在如火如荼的制作当中~
 ### 上手指南
-#### 操作环境 windows 7/8/8.1/10/11\
-#### 安装步骤
+## 环境要求
+windows 7/8/8.1/10/11\
+python 3.8\
+go-cqhttp 1.10
+## 安装步骤
 1.打开go-cqhttp文件夹配置config.yml 填入QQbot的账户与密码\
 ps:若是想让bot的封禁少一点的话就把sign-server配置上！\
 2.打开pyQQbot文件夹配置Main.py QQbot的QQ号&QQ用户名&机器人超管（与config.yml一致）\
@@ -76,10 +79,10 @@ datetime\
 os\
 openAI\
 5.依次运行go-cqhttp与Main.py
-### 框架或者技术选型
-使用了 go-cqhttp QQ机器人框架，使用http与python通讯
+## 框架或者技术选型
+使用了 go-cqhttp QQ机器人框架，使用http与python通讯。
 ### 贡献者
-一如既往，感谢我们出色的贡献者
+一如既往，感谢我们出色的贡献者。
 <!-- readme: contributors -start -->
 <!-- readme: contributors -end -->
 <a href="https://github.com/xiaosuyyds/PyQQbot/graphs/contributors">
@@ -87,16 +90,21 @@ openAI\
 </a>
 
 ### 协作者
-一如既往，感谢我们出色的协作者
+一如既往，感谢我们出色的协作者。
 <!-- readme: collaborators -start -->
 <!-- readme: collaborators -end -->
-### 版本控制
-python 3.8\
-go-cqhttp 1.10
+
 ### 作者
 Xiaosuyyds\
 邮箱：Xiaosu-1009@qq.com
 ### 版权说明:
 开源协议：GNU General Public License v3.0
 ### 鸣谢:
-疯子XUFUYU
+<p align="center">
+  一如既往，感谢他们。
+  疯子XUFUYU
+  <a href="https://xufuyu.eu.org/">
+    <img src="https://cdn.jsdelivr.net/gh/xufuyu/CDN@master/favicon.ico"alt="logo">
+  </a>
+</p>
+
