@@ -1,6 +1,6 @@
 # PyQQbot
 ## 一个基于go-cqhttp与python的QQ机器人。
-
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=xufuyu)](https://github.com/anuraghazra/github-readme-stats)
 ### 项目背景
 #### PyQQbot一个作者没事情干的时候写的QQ机器人
 #### PyQQbot操作手册:[临时消息不回复]
@@ -36,7 +36,13 @@ openAI\
 ### 框架或者技术选型
 使用了 go-cqhttp QQ机器人框架，使用http与python通讯
 ### 贡献者
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=xufuyu)](https://github.com/anuraghazra/github-readme-stats)
+
+## 贡献者
+一如既往，感谢我们出色的贡献者
+<a href="https://github.com/xiaosuyyds/PyQQbot/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=xiaosuyyds/PyQQbot" />
+</a>
+
 ### 版本控制
 python 3.8\
 go-cqhttp 1.10
