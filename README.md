@@ -72,9 +72,7 @@ ps:若是想让bot的封禁少一点的话就把sign-server配置上！\
 requests\
 flask\
 psutil\
-warnings\
 datetime\
-os\
 openAI\
 5.依次运行go-cqhttp与Main.py
 ## 框架或者技术选型
