@@ -36,13 +36,14 @@ openAI\
 ### 框架或者技术选型
 使用了 go-cqhttp QQ机器人框架，使用http与python通讯
 ### 贡献者
-
-## 贡献者
 一如既往，感谢我们出色的贡献者
-<br><a href="https://github.com/xiaosuyyds/PyQQbot/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=xiaosuyyds/PyQQbot" />
-</a>
+<!-- readme: contributors -start -->
+<!-- readme: contributors -end -->
 
+### 协作者
+一如既往，感谢我们出色的协作者
+<!-- readme: collaborators -start -->
+<!-- readme: collaborators -end -->
 ### 版本控制
 python 3.8\
 go-cqhttp 1.10
