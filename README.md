@@ -36,9 +36,7 @@ openAI\
 ### 框架或者技术选型
 使用了 go-cqhttp QQ机器人框架，使用http与python通讯
 ### 贡献者
-<a href="https://github.com/eryajf/learn-github/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=eryajf/learn-github" />
-</a>
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=xufuyu)](https://github.com/anuraghazra/github-readme-stats)
 ### 版本控制
 python 3.8\
 go-cqhttp 1.10
