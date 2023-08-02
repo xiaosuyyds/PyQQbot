@@ -5,13 +5,9 @@
     <img src="https://cdn.jsdelivr.net/gh/xiaosuyyds/PyQQbot@master/blob/logo1.png"alt="logo">
   </a>
 </p>
-
 <div align="center">
-
 _✨ 基于 [Mirai](https://github.com/mamoe/mirai) 以及 [MiraiGo](https://github.com/Mrs4s/MiraiGo) 的 [OneBot](https://github.com/howmanybots/onebot/blob/master/README.md) Golang 原生实现 ✨_  
-
 </div>
-
 <p align="center">
   <a href="https://raw.githubusercontent.com/Mrs4s/go-cqhttp/master/LICENSE">
     <img src="https://img.shields.io/github/license/Mrs4s/go-cqhttp" alt="license">
@@ -32,15 +28,17 @@ _✨ 基于 [Mirai](https://github.com/mamoe/mirai) 以及 [MiraiGo](https://git
 </p>
 
 <p align="center">
-  <a href="https://docs.go-cqhttp.org/">文档</a>
+  <a href="">文档</a>
   ·
-  <a href="https://github.com/Mrs4s/go-cqhttp/releases">下载</a>
+  <a href="">下载</a>
   ·
-  <a href="https://docs.go-cqhttp.org/guide/quick_start.html">开始使用</a>
+  <a href="">开始使用</a>
   ·
-  <a href="https://github.com/Mrs4s/go-cqhttp/blob/master/CONTRIBUTING.md">参与贡献</a>
+  <a href="">参与贡献</a>
     ·
   <a href="https://xufuyu.eu.org">博客</a>
+      ·
+  <a href="mailto:xufuyu@xufuyu.eu.org">邮箱</a>
 </p>
 
 
