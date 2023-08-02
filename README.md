@@ -1,8 +1,8 @@
 # PyQQbot
 ## 一个基于go-cqhttp与python的QQ机器人。
 <p align="center">
-  <a href="https://ishkong.github.io/go-cqhttp-docs/">
-    <img src="winres/icon.png" width="200" height="200" alt="go-cqhttp">
+  <a href="">
+    <img src="blob/logo1.png" width="200" height="200" alt="logo">
   </a>
 </p>
 
