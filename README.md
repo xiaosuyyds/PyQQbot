@@ -39,6 +39,9 @@ openAI\
 一如既往，感谢我们出色的贡献者
 <!-- readme: contributors -start -->
 <!-- readme: contributors -end -->
+<a href="https://github.com/xiaosuyyds/PyQQbot/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=xiaosuyyds/PyQQbot" />
+</a>
 
 ### 协作者
 一如既往，感谢我们出色的协作者
