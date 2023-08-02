@@ -82,7 +82,7 @@ openAI\
 ## 框架或者技术选型
 使用了 go-cqhttp QQ机器人框架，使用http与python通讯。
 ### 贡献者
-一如既往，感谢我们出色的贡献者。
+# 一如既往，感谢我们出色的贡献者。
 <!-- readme: contributors -start -->
 <!-- readme: contributors -end -->
 <a href="https://github.com/xiaosuyyds/PyQQbot/graphs/contributors">
@@ -90,7 +90,7 @@ openAI\
 </a>
 
 ### 协作者
-一如既往，感谢我们出色的协作者。
+# 一如既往，感谢我们出色的协作者。
 <!-- readme: collaborators -start -->
 <!-- readme: collaborators -end -->
 
@@ -100,11 +100,12 @@ Xiaosuyyds\
 ### 版权说明:
 开源协议：GNU General Public License v3.0
 ### 鸣谢:
-<p align="center">
-  一如既往，感谢他们。
+# 一如既往，感谢他们。
+
+<a href="https://github.com/xufuyu">
+  <img src="https://cdn.jsdelivr.net/gh/xufuyu/CDN@master/favicon.ico"width="200" height="200"alt="logo">
+</a><br>
+<a href="https://github.com/xufuyu">
   疯子XUFUYU
-  <a href="https://xufuyu.eu.org/">
-    <img src="https://cdn.jsdelivr.net/gh/xufuyu/CDN@master/favicon.ico"alt="logo">
-  </a>
-</p>
+</a>
 
