@@ -36,7 +36,9 @@ openAI\
 ### 框架或者技术选型
 使用了 go-cqhttp QQ机器人框架，使用http与python通讯
 ### 贡献者
-Fuyu Xu
+<a href="https://github.com/eryajf/learn-github/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=eryajf/learn-github" />
+</a>
 ### 版本控制
 python 3.8\
 go-cqhttp 1.10
@@ -46,4 +48,4 @@ Xiaosuyyds\
 ### 版权说明:
 开源协议：GNU General Public License v3.0
 ### 鸣谢:
-Fuyu Xu
+疯子XUFUYU
