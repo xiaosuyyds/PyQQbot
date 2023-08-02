@@ -103,7 +103,7 @@ Xiaosuyyds\
 # 一如既往，感谢他们。
 
 <a href="https://github.com/xufuyu">
-  <img src="https://cdn.jsdelivr.net/gh/xufuyu/CDN@master/favicon.ico"width="200" height="200"alt="logo">
+  <img src="https://cdn.jsdelivr.net/gh/xufuyu/CDN@master/favicon.ico"width="100" height="100"alt="logo">
 </a><br>
 <a href="https://github.com/xufuyu">
   疯子XUFUYU
