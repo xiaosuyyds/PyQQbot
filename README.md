@@ -2,7 +2,7 @@
 ## 一个基于go-cqhttp与python的QQ机器人。
 <p align="center">
   <a href="">
-    <img src="blob/logo1.png" width="200" height="200" alt="logo">
+    <img src="blob/logo1.png"alt="logo">
   </a>
 </p>
 
