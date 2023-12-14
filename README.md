@@ -85,11 +85,6 @@ openAI\
   <img src="https://contrib.rocks/image?repo=xiaosuyyds/PyQQbot" />
 </a>
 
-### 协作者
-#### 一如既往，感谢我们出色的协作者。
-<!-- readme: collaborators -start -->
-<!-- readme: collaborators -end -->
-
 ### 作者
 Xiaosuyyds\
 邮箱：Xiaosu-1009@qq.com
