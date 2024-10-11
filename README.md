@@ -1,5 +1,8 @@
 # PyQQbot
 ## 一个基于go-cqhttp与python的QQ机器人。
+
+## 此项目已基本废弃，不再维护，请移步[MuRainBot2](https://github.com/xiaosuyyds/MuRainBot2)!
+
 <p align="center">
   <a href="https://xufuyu.eu.org/">
     <img src="https://cdn.jsdelivr.net/gh/xiaosuyyds/PyQQbot@master/blob/logo1.png"alt="logo">
